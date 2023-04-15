@@ -13,6 +13,7 @@
   - [Contributors](#contributors)
 
 ### Summary Of Mini-Project
+
 - A classification model through supervised learning to predict from 30 features of breast-cancer cells within per patient
 whether they have Malignant (M) or Benign (B) tumor.
 - 10 features describes the mean of different cell features, another 10 on its standard error, and last 10 on the "worst" or largest (mean
@@ -45,6 +46,7 @@ without the need to do so
 - It was found that feature selection through using only 10 (the means of features) out of 30 features for prediction negatively affects model evaluation
 - Logistic Regression model performs the best among others w/ 98.245% accuracy with 95.312% recall
 - Other models fall behind by at most 5% in accuracy
+
 
 ### Learning Points From This Project
 - "The model is just as good as the data it is trained on". 
