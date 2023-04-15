@@ -3,8 +3,8 @@
 ## Table of Contents
 
   - [Summary Of Mini-Project](#summary-of-mini-project)
-  - [Problem Definition](#problem-definition)
   - [Dataset Source and Practical Motivation](#dataset-source-and-practical-motivation)
+  - [Problem Definition](#problem-definition)
   - [Models Used](#models-used)
   - [Conclusion](#conclusion)
   - [Learning Points From This Project](#learning-points-from-this-project)
@@ -20,15 +20,15 @@ of the three largest values)
 - A total of 6 different models were evaluated based on accuracy score and recall (TPR) for ranking purposes
 - Dataset used is based only in US, Wisconsin data collected from University of Wisconsin
 
-### Problem Definition
-- How can we identify malignant or benign tumor in a patient having breast cancer?
-- What tools and methods can we use to arrive at an accurate diagnosis?
-- What are the implications of developing such models and what scope do they have in the future?
-
 ### Dataset Source and Practical Motivation
 - Breast cancer is a complex disease that affects millions of people worldwide. 
 - We realize that breast cancer screening and diagnosis can be challenging, and errors can have serious consequences for patients. 
 - [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+
+### Problem Definition
+- How can we identify malignant or benign tumor in a patient having breast cancer?
+- What tools and methods can we use to arrive at an accurate diagnosis?
+- What are the implications of developing such models and what scope do they have in the future?
 
 ### Models Used
 1. K-Nearest Neighbours
