@@ -54,10 +54,11 @@ Hence, improving the quality and quantity of the data will ultimately lead to be
 - Learnt that normalising distributions of features does not necessarily improve model performance
 
 ### Video Presentation
-- [Our Youtube Presentation](https://youtu.be/fBFhuGbEOGQ)
+- [Our Presentation](https://youtu.be/fBFhuGbEOGQ)
 
 ### Practical Implementation of Model
-- [HuggingFace](https://huggingface.co/spaces/bamitsmanas/breast-cancer-detection)
+Model Implementation: [Breast Cancer Diagnosis](https://huggingface.co/spaces/bamitsmanas/breast-cancer-detection)
+#### Demo:
 
 
 https://user-images.githubusercontent.com/130828926/232226392-03191188-c2c6-4af8-a6db-36d79dffcca4.mp4
