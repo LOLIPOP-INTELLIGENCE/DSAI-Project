@@ -54,7 +54,7 @@ Hence, improving the quality and quantity of the data will ultimately lead to be
 - Reinforce concepts on accuracy, recall, and other evaluation metrics
 - Evaluating feature importance
 - Learnt that normalising distributions of features does not necessarily improve model performance
-- Understood the maths behind all the models we implemented and also learned how to applu them in a given context and problem
+- Understood the maths behind all the models we implemented and also learned how to apply them in a given context
 
 ### Video Presentation
 - [Our Presentation](https://youtu.be/fBFhuGbEOGQ)
