@@ -73,4 +73,4 @@ https://user-images.githubusercontent.com/130828926/232226392-03191188-c2c6-4af8
 - Exploratory Data Analysis (Nahvin)
 - Machine Learning Models & Evaluation (Manas)
 - As a whole, the entire project structure and steps was discussed and agreed as a group
-- Model implementation through HuggingSpace developed by Manas
+- Model implementation through HuggingFace Spaces developed by Manas
